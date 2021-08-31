@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-/**
-  Takes in string and prints length
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 julian londono
  */
 public class App 
 {
